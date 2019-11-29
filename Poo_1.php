@@ -18,7 +18,7 @@ function muestra_contenido(){
 
   $micaja = new Caja;
 
-  $micaja->introduce("un string");
+  $micaja->introduce("un string (carácter)");
   $micaja->muestra_contenido();
 
 
